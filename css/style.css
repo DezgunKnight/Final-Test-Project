@@ -51,7 +51,6 @@ html, body {
     right: 100px;
     cursor: pointer;
     display: none;
-    background-color: aliceblue;
 }
 .line {
     width: 100%;
@@ -67,10 +66,10 @@ html, body {
     margin-bottom: 0;
 }
 .line1 {
-    top: 20%;
+    top: 10%;
 }
 .line3 {
-    top: 80%;
+    top: 89%;
 }
 .active .line1 {
     top: 50%;
@@ -83,7 +82,7 @@ html, body {
     top: 50%;
     transform: translate(-50%, -50%) rotate(-45deg);
 }
-.nav-ul.toggle {
+.toggle .navigation-ul {
     position: absolute;
     top: 0;
     left: 0;
