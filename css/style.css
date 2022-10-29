@@ -42,7 +42,7 @@ html, body {
     transition: all linear 0.1s 0.1s;
 }
 .links:hover {
-    color: #eb4d4b;
+    color: #f53b57;
     font-size: 20px;
 }
 .burger {
