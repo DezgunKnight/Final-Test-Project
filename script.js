@@ -7,4 +7,3 @@ burgerButton.addEventListener('click', function() {
     burgerButton.classList.toggle('active');
 })
 
-console.log(burgerButton);

@@ -2,7 +2,8 @@
     .burger {
        display: block;
     }
-    .navbar {
+    .nav-ul {
         display: none;
     }
+    
 }
